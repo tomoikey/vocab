@@ -1,0 +1,20 @@
+[
+  {
+    "english": "be",
+    "example": "She is dangerous teacher. I am about to die",
+    "japanese": "〜である",
+    "skip": false
+  },
+  {
+    "english": "child",
+    "example": "She ate children as a teacher",
+    "japanese": "子供",
+    "skip": false
+  },
+  {
+    "english": "have",
+    "example": "She had a child. But she ate it",
+    "japanese": "持つ",
+    "skip": false
+  }
+]
