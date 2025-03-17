@@ -26,7 +26,6 @@ use std::io::{self, BufReader, Stdout, Write};
 use std::process::exit;
 use unicode_width::UnicodeWidthStr;
 
-/// コマンドライン引数の定義
 #[derive(Parser)]
 #[command(author, version, about)]
 struct Args {

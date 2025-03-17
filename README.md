@@ -1,8 +1,6 @@
 # How to run
 ```shell
 ❯ vocab --help
-コマンドライン引数の定義
-
 Usage: vocab [OPTIONS]
 
 Options:
