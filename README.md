@@ -8,3 +8,10 @@ Options:
   -h, --help         Print help
   -V, --version      Print version
 ```
+
+# How to install
+```shell
+❯ cargo install --release
+❯ cp ./target/release/vocab /usr/local/bin
+❯ vocab --version
+```
